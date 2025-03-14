@@ -17,5 +17,5 @@ int x = 1;
 
 int main() {
 	/* To Do: 반환값을 x로 바꿔보세요 */ 
-	return 0;
+	return x;
 }
