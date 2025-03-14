@@ -8,7 +8,7 @@
 */
 
 /* To Do: 5를 결과값으로 반환하고, 입력값이 없는 five 함수를 선언하기 */
-
+int five();
 int main() {
 	return five();
 }
