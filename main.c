@@ -55,7 +55,7 @@ void print_int(int i);
 void f(int i) {
 	print_int(i);
 	print_char(':');
-	print_char('i');
+	print_char(i);
 	print_char('\n');
 }
 
